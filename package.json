@@ -1,0 +1,14 @@
+{
+  "name": "chain-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chainMonitor.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.0.3"
+  },
+  "engines": {
+    "node": ">=18.16.0"
+  }
+}
